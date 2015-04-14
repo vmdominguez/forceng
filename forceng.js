@@ -3,6 +3,8 @@
  * Author: Christophe Coenraets @ccoenraets
  * Works with browser apps or Salesforce Mobile SDK
  * Version: 0.4
+ *
+ * Licensed under the MIT license. Please see LICENSE for more information.
  */
 angular.module('forceng', [])
 
